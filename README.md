@@ -1,6 +1,7 @@
 # resmart
 
-A new Flutter project.
+<img src="https://github.com/izzaalfiansyah/flutter-resmart/blob/master/docs/1.jpg" width="200">
+<img src="https://github.com/izzaalfiansyah/flutter-resmart/blob/master/docs/2.jpg" width="200">
 
 ## Getting Started
 
